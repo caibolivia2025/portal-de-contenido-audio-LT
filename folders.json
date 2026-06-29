@@ -1,0 +1,114 @@
+{
+  "portal": {
+    "title": "Portal de Contenido",
+    "subtitle": "Audio · Latin Trading"
+  },
+  "brands": [
+    {
+      "id": "rca",
+      "name": "RCA",
+      "accent": "#D70F29",
+      "series": [
+        {
+          "id": "miami",
+          "name": "Miami Series",
+          "tagline": "EL PARTY VA CONTIGO",
+          "theme": "miami",
+          "driveUrl": "https://drive.google.com/REEMPLAZA_CARPETA_MIAMI",
+          "skus": [
+            {
+              "sku": "RCTS12120",
+              "specs": "12\"×2 · 120W · 4500mAh",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            },
+            {
+              "sku": "RCTS890",
+              "specs": "8\"×3 · 100W · 4500mAh",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            },
+            {
+              "sku": "RCTS860",
+              "specs": "8\"×2 · 60W · 3000mAh",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            },
+            {
+              "sku": "RCTS1260",
+              "specs": "12\" · 60W · 3000mAh",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            },
+            {
+              "sku": "RCTS830",
+              "specs": "8\" · 30W · 3000mAh",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "id": "tokyo",
+          "name": "Tokyo Series",
+          "tagline": "Shibuya después de medianoche",
+          "theme": "tokyo",
+          "driveUrl": "https://drive.google.com/REEMPLAZA_CARPETA_TOKYO",
+          "skus": [
+            {
+              "sku": "RCTS6540R",
+              "specs": "",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            },
+            {
+              "sku": "RCTS860R",
+              "specs": "",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            },
+            {
+              "sku": "RCTS10100R",
+              "specs": "",
+              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "id": "ibiza",
+          "name": "Ibiza Series",
+          "tagline": "Donde sea, suena Ibiza",
+          "theme": "ibiza",
+          "driveUrl": "https://drive.google.com/REEMPLAZA_CARPETA_IBIZA",
+          "skus": [
+            {
+              "sku": "RCTS850",
+              "specs": "40W RMS · 2×8\" · 4500mAh",
+              "driveUrl": "https://drive.google.com/drive/folders/1IIJDt2ACoAizXmdoltUI7mcjXJqjNAtg?usp=sharing",
+              "thumb": ""
+            },
+            {
+              "sku": "RCTS8100",
+              "specs": "80W RMS · 4×8\" · 4500mAh",
+              "driveUrl": "https://drive.google.com/drive/folders/1o52gQsVen72zPY8QYpymCiIZRyKgP52C?usp=sharing",
+              "thumb": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotline",
+      "name": "Hotline",
+      "accent": "#1E75BA",
+      "series": []
+    },
+    {
+      "id": "westinghouse",
+      "name": "Westinghouse",
+      "accent": "#0A0A0A",
+      "series": []
+    }
+  ]
+}
