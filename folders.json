@@ -14,7 +14,7 @@
           "name": "Miami Series",
           "tagline": "EL PARTY VA CONTIGO",
           "theme": "miami",
-          "driveUrl": "https://drive.google.com/REEMPLAZA_CARPETA_MIAMI",
+          "driveUrl": "https://drive.google.com/drive/folders/1iB-OmFDR1dW19oZw1SH8luQnrN9r3OzI?usp=drive_link",
           "skus": [
             {
               "sku": "RCTS12120",
@@ -53,24 +53,24 @@
           "name": "Tokyo Series",
           "tagline": "Shibuya después de medianoche",
           "theme": "tokyo",
-          "driveUrl": "https://drive.google.com/REEMPLAZA_CARPETA_TOKYO",
+          "driveUrl": "https://drive.google.com/drive/folders/1UmX_Qcx6AzpjnzBDB6sk5KhCid1x6oos?usp=drive_link",
           "skus": [
             {
               "sku": "RCTS6540R",
               "specs": "",
-              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "driveUrl": "https://drive.google.com/drive/folders/1vOGSciz__LV7bbWukMOhHnfZqFjMMd6s?usp=drive_link",
               "thumb": ""
             },
             {
               "sku": "RCTS860R",
               "specs": "",
-              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "driveUrl": "https://drive.google.com/drive/folders/1RIL2ARohnYfSo-t63EcAD0mNSW1FO41w?usp=drive_link",
               "thumb": ""
             },
             {
               "sku": "RCTS10100R",
               "specs": "",
-              "driveUrl": "https://drive.google.com/REEMPLAZA",
+              "driveUrl": "https://drive.google.com/drive/folders/1mJ9MCB1-_LLCBx7FB-8ubwuP_-nciIFg?usp=drive_link",
               "thumb": ""
             }
           ]
@@ -80,7 +80,7 @@
           "name": "Ibiza Series",
           "tagline": "Donde sea, suena Ibiza",
           "theme": "ibiza",
-          "driveUrl": "https://drive.google.com/REEMPLAZA_CARPETA_IBIZA",
+          "driveUrl": "https://drive.google.com/drive/folders/1ru7RhKKZmKCJ9dwH05SDRyGwm_ATPaA_?usp=drive_link",
           "skus": [
             {
               "sku": "RCTS850",
