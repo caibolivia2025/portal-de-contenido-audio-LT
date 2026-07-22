@@ -95,6 +95,21 @@
               "thumb": ""
             }
           ]
+        },
+        {
+          "id": "rcss",
+          "name": "RCSS Series",
+          "tagline": "",
+          "theme": "default",
+          "driveUrl": "",
+          "skus": [
+            {
+              "sku": "RCSS1280",
+              "specs": "",
+              "driveUrl": "https://drive.google.com/drive/folders/10RcqPgwE2-GaFjekb1US3ILs4b-dExUz?usp=drive_link",
+              "thumb": ""
+            }
+          ]
         }
       ]
     },
