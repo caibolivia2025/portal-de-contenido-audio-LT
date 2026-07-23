@@ -97,6 +97,21 @@
           ]
         },
         {
+          "id": "infinito",
+          "name": "Serie Infinito / Infinity Series",
+          "tagline": "",
+          "theme": "default",
+          "driveUrl": "",
+          "skus": [
+            {
+              "sku": "RCBS6560",
+              "specs": "",
+              "driveUrl": "https://drive.google.com/drive/folders/1LvkhFIMJ24lSQPRVVyuLIN_veVnRgW9T?usp=drive_link",
+              "thumb": ""
+            }
+          ]
+        },
+        {
           "id": "humo",
           "name": "Serie Humo / Smoking Series",
           "tagline": "",
